@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Currensyconvert {
     public static void main(String[] args) {
         Currensyconvert convert = new Currensyconvert();
-        Scanner scanner = new Scanner(System.in )
+        Scanner scanner = new Scanner(System.in);
          boolean isAdult= true;
 
         int Currensyconvert = scanner.nextInt();
