@@ -1,12 +1,12 @@
  public class Currensyconvert {
-    public static final double SEK_TO_USD=0.094;
-   public static final double USD_to_SEK=10.53;
-    public static final double SEK_TO_Euro=0.087;
-    public static final double Euro_to_SEK=11.38;
+  public static final double SEK_TO_USD=0.094;
+ public static final double USD_to_SEK=10.53;
+ public static final double SEK_TO_Euro=0.087;
+ public static final double Euro_to_SEK=11.38;
    
 
 
-     public static void main(String[] args) {
+   public static void main(String[] args) {
 
          Currensyconvert convert = new Currensyconvert();
          Scanner scanner = new Scanner(System.in );
@@ -58,7 +58,7 @@
                System.out.println ("Exit prgram ");
 
                         break;
-            default= false;
+            isAdult = false;
 
        }
 
